@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: clvsantos/tetrisv1:12
+        image: clvsantos/tetrisv2:12
         ports:
         - containerPort: 3000
 ---
